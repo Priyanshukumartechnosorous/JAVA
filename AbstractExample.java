@@ -4,6 +4,7 @@ public class AbstractExample {
         r.lenght=10;
         r.breadth=5;
         System.out.println(r.area()); 
+       
     }
     
 }
