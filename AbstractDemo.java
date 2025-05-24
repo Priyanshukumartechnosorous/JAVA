@@ -1,7 +1,8 @@
 public class AbstractDemo {
     public static void main(String[] args) {
-        Super S1;
-        Sub S2= new Sub();
+        Super s= new Sub();
+        s.meth1();
+        s.meth2();
 
     }    
 }
